@@ -1,0 +1,29 @@
+.content{
+    width: 660px;
+    margin-left: 20px;
+    float: left;
+    font-size: 1.5rem;
+}
+.contact-form th {
+  width: 150px;
+  height: 7rem;
+  text-align: right;
+}
+.form {
+  height: 7rem;
+  width: 480px;
+  padding-left: 2rem;
+}
+.test {
+    width: 480px;
+}
+.submitbutton {
+  font-size: 2rem;
+  height: 40px;
+  width: 70px;
+  background-color: #0099CC;
+  color: white;
+}
+.submitbutton:hover{
+  opacity: 0.6;
+}
